@@ -1,1 +1,1 @@
-Code of the personal website page: https://guolanqing.github.io
+Code of the personal website page: https://eedaigang.cn
